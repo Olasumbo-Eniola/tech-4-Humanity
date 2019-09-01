@@ -18,7 +18,9 @@ body {
 	line-height:30px;
 	color:#777;
 	background: url('img/background.jpg');
-	background-size:100% 100%;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 }
 
 .container {
